@@ -1,0 +1,12 @@
+{
+  "baseUrl": "https://www.saucedemo.com/",
+  "endpoint": {
+    "products": "/inventory.html",
+    "productsInCar": "/cart.html"
+  },
+
+  "selectors": {
+    "productPrice": "[data-test=\"inventory-item-price\"]",
+    "cartBadge": ".shopping_cart_badge"
+  }
+}

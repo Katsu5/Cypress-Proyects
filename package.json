@@ -1,5 +1,7 @@
 {
   "devDependencies": {
-    "cypress": "^15.6.0"
+    "@cypress-audit/lighthouse": "^1.4.2",
+    "cypress": "^15.6.0",
+    "cypress-audit": "^1.1.0"
   }
 }
